@@ -1,5 +1,5 @@
 
-# Code examples
+# Code examples#
 
 1. **Quadratic roots**
 
